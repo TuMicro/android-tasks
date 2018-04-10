@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray8">#000000</color>
+    <color name="gray6">#555555</color>
+    <color name="gray5">#6b6b6e</color>
+    <color name="gray4.5">#717175</color>
+    <color name="gray4">#868589</color>
+    <color name="gray3.5">#959499</color>
+    <color name="gray3">#a4a4a4</color>
+    <color name="gray2">#c1c1c5</color>
+    <color name="gray1">#ecedef</color>
+
+    <color name="pink5">#c03988</color>
+    <color name="pink4">#ff3399</color>
+    <color name="pink3">#ffff8895</color>
+    <color name="pink2">#ffff9bc6</color>
+
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00ffffff</color>
+
+    <color name="yellow4">#f7bb4e</color>
+    <color name="yellow3">#f9ca77</color>
+
+
+    <color name="green4">#20803f</color>
+    <color name="green3">#00982d</color>
+    <color name="green2">#339900</color>
+    <color name="green1.5">#6ea96e</color>
+    <color name="green1">#71a26f</color>
+    <color name="green0">#00b4a3</color>
+
+    <color name="red6">#c23d41</color>
+    <color name="red5">#c85154</color>
+    <color name="red3">#ff4349</color>
+
+    <color name="colorPrimary">@color/red5</color>
+    <color name="colorPrimaryDark">@color/gray8</color>
+    <color name="colorAccent">@color/pink4</color>
+
+
+    <color name="alarmCircle">#8dff3399</color>
+</resources>
