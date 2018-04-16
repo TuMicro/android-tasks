@@ -1,6 +1,8 @@
 # Reportes
 
-* Maquetar (xml's) la pantalla de reportes y las 9 subpantallas. (pedir acceso)
+* Maquetar (xml's) la pantalla de reportes y las 10 subpantallas. (pedir acceso a los mockups para mayor referencia)
+
+* Maquetado y webview de la pantalla "tutorial".
 
 * Escribir las reglas del backend en Firestore y Firebase Storage (para las imágenes y videos).
 
